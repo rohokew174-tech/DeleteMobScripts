@@ -220,6 +220,27 @@ UIS.TouchEnded:Connect(function(input)
     end
 end)
 
+local DeleteMobF = Instance.new("Frame")
+local TextBox = Instance.new("TextBox")
+local Name = Instance.new("TextLabel")
+local Line = Instance.new("Frame")
+local Line_2 = Instance.new("Frame")
+local AimBotSection = Instance.new("Frame")
+local UIListLayout = Instance.new("UIListLayout")
+local ABE = Instance.new("TextButton")
+local ABWC = Instance.new("TextButton")
+local ABTC = Instance.new("TextButton")
+local ABSF = Instance.new("TextButton")
+local Frame = Instance.new("Frame")
+local Slider3 = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local Fill1 = Instance.new("Frame")
+local UICorner_2 = Instance.new("UICorner")
+local UIGradient = Instance.new("UIGradient")
+local TriggerFov = Instance.new("TextButton")
+local Numbers = Instance.new("TextLabel")
+local TextLabel = Instance.new("TextLabel")
+
 -- Botão de abrir/fechar menu mobile
 local Open = Instance.new("Frame")
 Open.Name = "Open"
